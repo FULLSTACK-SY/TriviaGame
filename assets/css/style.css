@@ -1,0 +1,68 @@
+html, body{
+  height:100%;
+}
+
+body{
+  background-image: url(../images/friends.png);
+  text-align: center;
+}
+
+#wrapper{
+  margin:2% auto;
+  background-color: #d5dad8;
+  width:960px;
+  height: 90%;
+  box-sizing: border-box;
+}
+
+#subwrapper{
+  position: relative;
+}
+
+button {
+  display:block;
+  width:50%;
+  height:20%;
+  margin: 0 auto;
+  border:none;
+  cursor: pointer;
+  background:transparent;
+  font-size: 42px;
+}
+
+img{
+  height:200px;
+}
+
+h1{
+  font-family: 'MV Boli','Aclonica', sans-serif;
+  font-size: 65px;
+  font-weight: bold;
+  color:rgb(250, 0, 0);
+  padding-top: 2.5%;
+}
+
+h2{
+  font-size: 35px;
+  margin-bottom: 25px;
+}
+
+h3{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+#start{
+  margin-top: 10%;
+  color:rgb(0, 0, 0);
+  background: pink;
+}
+
+button:hover {
+  border:2px solid rgb(250, 0, 0);
+  background: pink;
+}
+
+div {
+  font-family: 'Calibri';
+}
