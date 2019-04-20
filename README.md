@@ -16,4 +16,6 @@ On the final screen, showing the number of correct answers, incorrect answers, a
 
 Softwares : HTML5, CSS3, Javascript,jQuery
 
-challenges : Hover over setup wasn't easy.
+challenges : Hover over setup wasn't easy. 
+             Took time to find out perfect images. 
+             Also typing Question /answers were time consuming, will rather use some API next time.
