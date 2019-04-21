@@ -1,5 +1,7 @@
 # TriviaGame
 
+Run : https://fullstack-sy.github.io/TriviaGame/.
+
 This trivia game shows only one question until the player answers it or their time runs out.
 
 If the player selects the correct answer,
